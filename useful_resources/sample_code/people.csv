@@ -1,0 +1,7 @@
+first_name, last_name, email, phone, zip5, date_of_birth,
+
+    first_name, last_name, email
+    first_name, last_name, phone
+    first_name, last_name, zip5, date_of_birth
+    first_name, last_name, street_number, street_name, zip5
+    email_address
